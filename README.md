@@ -18,19 +18,32 @@
 A Vinheria Agnello precisa monitorar as condições de temperatura, umidade e luminosidade do ambiente onde armazena os vinhos para não haver perca de qualidade dos produtos.
 
 ## :bulb: Desafio
+### LED
 <ul>
-  <li>Enquanto o ambiente estiver escuro, o LED Verde deve ficar aceso</li>
-  <li>Enquanto o ambiente estiver a meia luz, o LED amarelo deve ficar aceso e mensagem de “Ambiente a meia luz” deve ser mostrado no Display</li>
-  <li>Enquanto o ambiente estiver totalmente iluminado, o LED vermelho deve ficar aceso e a mensagem “Ambiente muito claro” deve ser mostrado no display</li>
-  <li>Enquanto o ambiente estiver com uma temperatura entre 10°C e 15°C, o Display deve informar “Temperatura OK” e também mostrar o valor da temperatura</li>
-  <li>Enquanto o ambiente estiver com uma umidade entre 60% e 80%, o Display deve informar “Umidade OK”, e também mostrar o valor da umidade</li>
-  <li>Enquanto a temperatura estiver fora da faixa ideal, o Display deve informar “Temp. Alta”, para valores acima de 15°C e também mostrar a temperatura</li>
-  <li>Enquanto a temperatura estiver fora da faixa ideal, o Display deve informar “Temp. Baixa”, para valores abaixo de 10°C e também mostrar a temperatura</li>
-  <li>Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Alta”, para valores acima de 70% e também mostrar a umidade</li>
-  <li>Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Baixa”, para valores abaixo de 50% e também mostrar a umidade</li>
-  <li>Para os casos de Temperatura Baixa e Umidade Baixa, o Buzzer deve ficar ligado por 3 segundos e desligado por 3 segundos</li>
-  <li>Para os casos de Temperatura Alta e Umidade Alta, o Buzzer deve ficar ligado Continuamente</li>
-  <li>Os valores apresentados no display devem ser a média de pelo menos 5 leituras dos sensores, e os valores devem ser apresentad os a cada 5 segundos</li>
+  <li>Enquanto o ambiente estiver escuro, o LED Verde deve ficar aceso;</li>
+  <li>Enquanto o ambiente estiver a meia luz, o LED amarelo deve ficar aceso e mensagem de “Ambiente a meia luz” deve ser mostrado no Display;</li>
+  <li>Enquanto o ambiente estiver totalmente iluminado, o LED vermelho deve ficar aceso e a mensagem “Ambiente muito claro” deve ser mostrado no display.</li>
+</ul>
+
+### Temperatura
+<ul>
+  <li>Enquanto o ambiente estiver com uma temperatura entre 10°C e 15°C, o Display deve informar “Temperatura OK” e também mostrar o valor da temperatura;</li>
+  <li>Enquanto a temperatura estiver fora da faixa ideal, o Display deve informar “Temp. Alta”, para valores acima de 15°C e também mostrar a temperatura;</li>
+  <li>Enquanto a temperatura estiver fora da faixa ideal, o Display deve informar “Temp. Baixa”, para valores abaixo de 10°C e também mostrar a temperatura.</li>
+</ul>
+
+### Umidade
+<ul>
+  <li>Enquanto o ambiente estiver com uma umidade entre 60% e 80%, o Display deve informar “Umidade OK”, e também mostrar o valor da umidade;</li>
+  <li>Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Alta”, para valores acima de 70% e também mostrar a umidade;</li>
+  <li>Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Baixa”, para valores abaixo de 50% e também mostrar a umidade.</li>
+</ul>
+
+### Geral
+<ul>
+  <li>Para os casos de Temperatura Baixa e Umidade Baixa, o Buzzer deve ficar ligado por 3 segundos e desligado por 3 segundos;</li>
+  <li>Para os casos de Temperatura Alta e Umidade Alta, o Buzzer deve ficar ligado Continuamente;</li>
+  <li>Os valores apresentados no display devem ser a média de pelo menos 5 leituras dos sensores, e os valores devem ser apresentad os a cada 5 segundos.</li>
 </ul>
 
 ## :hammer_and_wrench: Tecnologias e Ferramentas
