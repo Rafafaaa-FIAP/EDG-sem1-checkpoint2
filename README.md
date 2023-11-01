@@ -57,4 +57,4 @@ Foi feito no simulador do [Wokwi](https://wokwi.com/) o circuito para realizaç�
 <a href="https://wokwi.com/projects/378149597869460481" target="_blank">
   <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/Checkpoint-2/blob/main/circuit.png" alt="circuit" />
 </a>
-<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="">aqui.</a></h6>
+<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://drive.google.com/file/d/1pAHMPnv_nKahRPtLDKXdmldR5bdx1104/view?usp=sharing">aqui.</a></h6>
