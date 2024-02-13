@@ -1,4 +1,4 @@
-<h1 align="center">Checkpoint 2 - 1º Semestre - 1º Ano - 1ESPR</h1>
+<h1 align="center">Ano 1 - Semestre 1 - Checkpoint 2 - 1ESPR</h1>
 
 <hr/>
 
