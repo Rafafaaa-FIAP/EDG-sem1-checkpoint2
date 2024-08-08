@@ -52,7 +52,7 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 * [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
 ## :desktop_computer: Simulador
-Foi feito no simulador do [Wokwi](https://wokwi.com/) o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
+Foi feito no simulador do Wokwi o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
 <br/><br/>
 <a href="https://wokwi.com/projects/378149597869460481" target="_blank">
   <img src="https://github.com/Rafafaaa-FIAP/EDG-sem1-checkpoint2/blob/main/circuit.png" alt="circuit" />
