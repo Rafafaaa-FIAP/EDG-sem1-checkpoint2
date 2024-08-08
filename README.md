@@ -1,4 +1,4 @@
-<h1 align="center">Ano 1 - Semestre 1 - Checkpoint 2 - 1ESPR</h1>
+<h1 align="center">Semestre 1 - Checkpoint 2</h1>
 
 <hr/>
 
@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bulb-Desafio">Desafio</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer_and_wrench-Tecnologias">Tecnologias</a>
+  <a href="#hammer_and_wrench-Tecnologias-e-Ferramentas">Tecnologias e Ferramentas</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desktop_computer-Simulador">Simulador</a>
 </p>
@@ -55,6 +55,6 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 Foi feito no simulador do [Wokwi](https://wokwi.com/) o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
 <br/><br/>
 <a href="https://wokwi.com/projects/378149597869460481" target="_blank">
-  <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/Checkpoint-2/blob/main/circuit.png" alt="circuit" />
+  <img src="https://github.com/Rafafaaa-FIAP/EDG-sem1-checkpoint2/blob/main/circuit.png" alt="circuit" />
 </a>
-<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://drive.google.com/file/d/1pAHMPnv_nKahRPtLDKXdmldR5bdx1104/view?usp=sharing">aqui.</a></h6>
+<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://youtu.be/6Qi1AvIkv20">aqui.</a></h6>
